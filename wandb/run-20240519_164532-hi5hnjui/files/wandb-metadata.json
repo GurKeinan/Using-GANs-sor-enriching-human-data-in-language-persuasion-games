@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.8.19",
+    "heartbeatAt": "2024-05-19T13:45:34.876234",
+    "startedAt": "2024-05-19T13:45:32.951169",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\pipan\\OneDrive - Technion\\semester5\\NLP\\NLP_project\\HumanChoicePrediction\\StrategyTransfer.py",
+    "codePathLocal": "StrategyTransfer.py",
+    "codePath": "StrategyTransfer.py",
+    "git": {
+        "remote": "https://github.com/IdanPipano/NLP_project.git",
+        "commit": "f2c05b7b5c3cf73fbca5985395e097a4ce20c920"
+    },
+    "email": "102733803+IdanPipano@users.noreply.github.com",
+    "root": "C:/Users/pipan/OneDrive - Technion/semester5/NLP/NLP_project/HumanChoicePrediction",
+    "host": "DESKTOP-AJR217E",
+    "username": "pipan",
+    "executable": "C:\\Users\\pipan\\anaconda3\\envs\\final_project_env\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2304.0,
+        "min": 0.0,
+        "max": 2304.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 2304.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 932.7617149353027,
+            "used": 418.4274253845215
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.74490737915039
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-29T15:13:31.138575",
+    "startedAt": "2024-04-29T15:13:29.678762",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\gurgu\\OneDrive - Technion\\semester 5\\NLP\\New folder\\NLP_project\\StrategyTransfer.py",
+    "codePathLocal": "StrategyTransfer.py",
+    "codePath": "StrategyTransfer.py",
+    "git": {
+        "remote": "https://github.com/IdanPipano/NLP_project.git",
+        "commit": "d6b973ab92a04a0e3c3fc5337a7225bda3c13730"
+    },
+    "email": "gur.keinan@campus.technion.ac.il",
+    "root": "C:/Users/gurgu/OneDrive - Technion/semester 5/NLP/New folder/NLP_project",
+    "host": "gurs_zenbook",
+    "username": "gurgu",
+    "executable": "C:\\Users\\gurgu\\anaconda3\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 952.2796058654785,
+            "used": 223.0927848815918
+        }
+    },
+    "memory": {
+        "total": 15.406021118164062
+    }
+}

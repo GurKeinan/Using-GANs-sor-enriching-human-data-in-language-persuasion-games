@@ -1,0 +1,10 @@
+{
+    "configurations": [
+
+    {"name":"Python Debugger: Current File from working folder",
+    "type":"debugpy",
+    "request":"launch",
+    "program": "${workspaceFolder}/StrategyTransfer.py",
+    "console":"integratedTerminal"}
+    ]
+}
